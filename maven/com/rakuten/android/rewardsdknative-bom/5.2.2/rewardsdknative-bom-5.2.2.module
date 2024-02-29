@@ -2,15 +2,15 @@
   "formatVersion": "1.1",
   "component": {
     "group": "com.rakuten.android",
-    "module": "mission-bom",
-    "version": "1.0.0",
+    "module": "rewardsdknative-bom",
+    "version": "5.2.2",
     "attributes": {
       "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4"
+      "version": "7.5"
     }
   },
   "variants": [
@@ -47,6 +47,13 @@
           "module": "rewardsdknative-event",
           "version": {
             "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.rakuten.android",
+          "module": "rewardsdknative-sps",
+          "version": {
+            "requires": "0.0.1"
           }
         },
         {
@@ -91,6 +98,13 @@
           "module": "rewardsdknative-event",
           "version": {
             "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.rakuten.android",
+          "module": "rewardsdknative-sps",
+          "version": {
+            "requires": "0.0.1"
           }
         },
         {

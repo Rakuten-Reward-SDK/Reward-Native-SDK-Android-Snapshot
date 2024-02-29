@@ -8,8 +8,8 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.rakuten.android</groupId>
-  <artifactId>mission-bom</artifactId>
-  <version>1.0.0</version>
+  <artifactId>rewardsdknative-bom</artifactId>
+  <version>5.2.2</version>
   <packaging>pom</packaging>
   <dependencyManagement>
     <dependencies>
@@ -32,6 +32,11 @@
         <groupId>com.rakuten.android</groupId>
         <artifactId>rewardsdknative-event</artifactId>
         <version>1.1.0</version>
+      </dependency>
+      <dependency>
+        <groupId>com.rakuten.android</groupId>
+        <artifactId>rewardsdknative-sps</artifactId>
+        <version>0.0.1</version>
       </dependency>
       <dependency>
         <groupId>com.rakuten.android</groupId>
