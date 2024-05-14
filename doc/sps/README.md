@@ -63,8 +63,6 @@ The client app need to include the following audience and scopes in the CAT conf
 | --- | --- |
 | rakuten_sp_scr_web | <ul><li>sps-basic</li><li>sps-point</li><li>sps-register</li><li>sps-fast-reg</li></ul> |  
 
-Please raise a configuration change request [here](https://confluence.rakuten-it.com/confluence/x/lAwPo).  
-
 <br>  
 
 # Initialize SPS  
