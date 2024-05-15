@@ -9,7 +9,7 @@
     <dependency>
       <groupId>jp.co.rakuten.sps.web</groupId>
       <artifactId>core-android</artifactId>
-      <version>0.3.0-rc3-SNAPSHOT</version>
+      <version>0.3.0-rc4-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
