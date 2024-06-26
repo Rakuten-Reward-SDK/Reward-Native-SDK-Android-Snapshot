@@ -3,10 +3,11 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-sps</artifactId>
   <versioning>
-    <latest>1.0.0-snapshot</latest>
+    <latest>1.0.0-alpha01-snapshot</latest>
     <versions>
       <version>1.0.0-snapshot</version>
+      <version>1.0.0-alpha01-snapshot</version>
     </versions>
-    <lastUpdated>20240604022910</lastUpdated>
+    <lastUpdated>20240626061159</lastUpdated>
   </versioning>
 </metadata>
