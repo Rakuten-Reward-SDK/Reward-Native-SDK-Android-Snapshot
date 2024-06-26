@@ -42,11 +42,11 @@ Then add the SPS dependency to the app-level build.gradle file
 ```groovy
 dependencies {
   // Mandatory libraries to support SPS library
-  implementation 'com.rakuten.android:rewardsdknative-core:5.4.0-snapshot'
-  implementation 'com.rakuten.android:rewardsdknative-ui:5.4.0-snapshot'
+  implementation 'com.rakuten.android:rewardsdknative-core:6.0.0-alpha01-snapshot'
+  implementation 'com.rakuten.android:rewardsdknative-ui:6.0.0-alpha01-snapshot'
 
   // Declare the library for SPS feature
-  implementation 'com.rakuten.android:rewardsdknative-sps:1.0.0-snapshot' 
+  implementation 'com.rakuten.android:rewardsdknative-sps:1.0.0-alpha01-snapshot' 
 }
 ```  
 
@@ -93,7 +93,12 @@ The following API will display SPS Portal as shown below.
 <img src="img/sps_osusume.png" alt="SPS Osusume Ad" width="250">  
 
 ```kotlin
-RakutenReward.openSpsPortal {
+RakutenReward.openSpsPortal({ result ->
+   when (result) {
+      is Failed -> // Failed to open Portal. Get the error here `result.error`
+      is Success -> // SDK Portal opened successfully
+  }
+}) {
     // handle portal closed event
 }
 ```  
