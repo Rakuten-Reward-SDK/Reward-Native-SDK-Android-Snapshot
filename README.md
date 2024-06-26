@@ -20,6 +20,7 @@
 
 | Version | Minimum SDK | Compile SDK |
 |---------|-------------|-------------|
+| 6.0.0   | API24 (7.0) | API 34      |
 | 5.4.0   | API24 (7.0) | API 34      |
 
 </details>
@@ -45,8 +46,8 @@ allprojects {
 
 Next, open the app-level `build.gradle` file for your app, and look for a "dependencies" section.  
 ```groovy
-  implementation 'com.rakuten.android:rewardsdknative-ui:5.4.0-snapshot'
-  implementation 'com.rakuten.android:rewardsdknative-core:5.4.0-snapshot'
+  implementation 'com.rakuten.android:rewardsdknative-ui:6.0.0-alpha01-snapshot'
+  implementation 'com.rakuten.android:rewardsdknative-core:6.0.0-alpha01-snapshot'
 ```  
 
 <br>
