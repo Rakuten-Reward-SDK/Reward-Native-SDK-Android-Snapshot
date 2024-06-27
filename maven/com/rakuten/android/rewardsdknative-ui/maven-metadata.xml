@@ -3,12 +3,13 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-ui</artifactId>
   <versioning>
-    <latest>6.0.0-alpha01-snapshot</latest>
+    <latest>6.0.0-alpha02-snapshot</latest>
     <versions>
       <version>5.3.0-snapshot</version>
       <version>5.4.0-snapshot</version>
       <version>6.0.0-alpha01-snapshot</version>
+      <version>6.0.0-alpha02-snapshot</version>
     </versions>
-    <lastUpdated>20240626061159</lastUpdated>
+    <lastUpdated>20240627040041</lastUpdated>
   </versioning>
 </metadata>
