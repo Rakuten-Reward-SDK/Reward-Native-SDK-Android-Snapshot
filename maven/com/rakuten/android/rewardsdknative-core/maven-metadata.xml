@@ -3,13 +3,14 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-core</artifactId>
   <versioning>
-    <latest>6.0.0-alpha02-snapshot</latest>
+    <latest>6.0.0-alpha03-snapshot</latest>
     <versions>
       <version>5.3.0-snapshot</version>
       <version>5.4.0-snapshot</version>
       <version>6.0.0-alpha01-snapshot</version>
       <version>6.0.0-alpha02-snapshot</version>
+      <version>6.0.0-alpha03-snapshot</version>
     </versions>
-    <lastUpdated>20240627040040</lastUpdated>
+    <lastUpdated>20240705033912</lastUpdated>
   </versioning>
 </metadata>
