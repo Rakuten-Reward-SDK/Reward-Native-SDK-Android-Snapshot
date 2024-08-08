@@ -3,7 +3,7 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-ui</artifactId>
   <versioning>
-    <latest>5.4.1-alpha03-snapshot</latest>
+    <latest>5.4.1-alpha04-snapshot</latest>
     <versions>
       <version>5.3.0-snapshot</version>
       <version>5.4.0-snapshot</version>
@@ -16,7 +16,8 @@
       <version>5.4.1-alpha02-snapshot</version>
       <version>6.0.0-alpha06-snapshot</version>
       <version>5.4.1-alpha03-snapshot</version>
+      <version>5.4.1-alpha04-snapshot</version>
     </versions>
-    <lastUpdated>20240808070119</lastUpdated>
+    <lastUpdated>20240808072332</lastUpdated>
   </versioning>
 </metadata>
