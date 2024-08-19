@@ -3,10 +3,11 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-remote</artifactId>
   <versioning>
-    <latest>0.0.1-alpha01-snapshot</latest>
+    <latest>0.0.1-alpha02-snapshot</latest>
     <versions>
       <version>0.0.1-alpha01-snapshot</version>
+      <version>0.0.1-alpha02-snapshot</version>
     </versions>
-    <lastUpdated>20240819054653</lastUpdated>
+    <lastUpdated>20240819061830</lastUpdated>
   </versioning>
 </metadata>
