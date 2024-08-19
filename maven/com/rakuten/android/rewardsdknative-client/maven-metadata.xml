@@ -3,7 +3,7 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-client</artifactId>
   <versioning>
-    <latest>1.0.2-alpha02-snapshot</latest>
+    <latest>1.0.2-alpha03-snapshot</latest>
     <versions>
       <version>1.0.1-snapshot</version>
       <version>1.0.1-alpha01-snapshot</version>
@@ -20,6 +20,6 @@
       <version>1.0.2-alpha08-snapshot</version>
       <version>1.0.2-alpha09-snapshot</version>
     </versions>
-    <lastUpdated>20240819061829</lastUpdated>
+    <lastUpdated>20240819063918</lastUpdated>
   </versioning>
 </metadata>
