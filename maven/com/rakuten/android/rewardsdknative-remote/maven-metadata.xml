@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.rakuten.android</groupId>
+  <artifactId>rewardsdknative-remote</artifactId>
+  <versioning>
+    <latest>0.0.1-alpha01-snapshot</latest>
+    <versions>
+      <version>0.0.1-alpha01-snapshot</version>
+    </versions>
+    <lastUpdated>20240819054653</lastUpdated>
+  </versioning>
+</metadata>
