@@ -2,30 +2,30 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-sps</artifactId>
-  <version>1.0.0-alpha02-snapshot</version>
   <versioning>
+    <lastUpdated>20240916031915</lastUpdated>
     <snapshot>
-      <timestamp>20240627.040034</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20240916.031915</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20240627040034</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>sources</classifier>
-        <extension>jar</extension>
+        <extension>aar</extension>
         <value>1.0.0-alpha02-snapshot</value>
-        <updated>20240627040034</updated>
+        <updated>20240916031915</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0.0-alpha02-snapshot</value>
-        <updated>20240627040034</updated>
+        <updated>20240916031915</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>aar</extension>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
         <value>1.0.0-alpha02-snapshot</value>
-        <updated>20240627040034</updated>
+        <updated>20240916031915</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
+  <version>1.0.0-alpha02-snapshot</version>
 </metadata>
