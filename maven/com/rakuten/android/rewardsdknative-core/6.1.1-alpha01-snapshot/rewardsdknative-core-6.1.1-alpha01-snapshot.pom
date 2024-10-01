@@ -37,6 +37,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.rakuten.android</groupId>
+      <artifactId>rewardsdknative-remote</artifactId>
+      <version>1.0.0-alpha01-snapshot</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-ads-identifier</artifactId>
       <version>17.1.0</version>
