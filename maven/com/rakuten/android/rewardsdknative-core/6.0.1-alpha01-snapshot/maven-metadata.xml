@@ -3,27 +3,27 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-core</artifactId>
   <versioning>
-    <lastUpdated>20240819054645</lastUpdated>
+    <lastUpdated>20241120031642</lastUpdated>
     <snapshot>
-      <timestamp>20240819.054645</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20241120.031642</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>6.0.1-alpha01-snapshot</value>
-        <updated>20240819054645</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <extension>aar</extension>
         <value>6.0.1-alpha01-snapshot</value>
-        <updated>20240819054645</updated>
+        <updated>20241120031642</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
         <value>6.0.1-alpha01-snapshot</value>
-        <updated>20240819054645</updated>
+        <updated>20241120031642</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>6.0.1-alpha01-snapshot</value>
+        <updated>20241120031642</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
