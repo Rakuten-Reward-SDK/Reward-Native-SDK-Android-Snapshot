@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.rakuten.android</groupId>
+  <artifactId>rewardsdknative-client</artifactId>
+  <versioning>
+    <lastUpdated>20241120094229</lastUpdated>
+    <snapshot>
+      <timestamp>20241120.094229</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.1.0-alpha08-snapshot</value>
+        <updated>20241120094229</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1.0-alpha08-snapshot</value>
+        <updated>20241120094229</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.1.0-alpha08-snapshot</version>
+</metadata>
