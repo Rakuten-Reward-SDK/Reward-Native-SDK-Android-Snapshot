@@ -3,21 +3,21 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-ext</artifactId>
   <versioning>
-    <lastUpdated>20241219033451</lastUpdated>
+    <lastUpdated>20250220035534</lastUpdated>
     <snapshot>
-      <timestamp>20241219.033451</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20250220.035534</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>aar</extension>
         <value>1.1.0-alpha02-snapshot</value>
-        <updated>20241219033451</updated>
+        <updated>20250220035534</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.1.0-alpha02-snapshot</value>
-        <updated>20241219033451</updated>
+        <updated>20250220035534</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
