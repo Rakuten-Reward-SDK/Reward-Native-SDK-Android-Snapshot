@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.rakuten.android</groupId>
+  <artifactId>rewardsdknative-sps</artifactId>
+  <versioning>
+    <lastUpdated>20250702090502</lastUpdated>
+    <snapshot>
+      <timestamp>20250702.090502</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.5.0-alpha04-snapshot</value>
+        <updated>20250702090502</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.5.0-alpha04-snapshot</value>
+        <updated>20250702090502</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.5.0-alpha04-snapshot</value>
+        <updated>20250702090502</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.5.0-alpha04-snapshot</version>
+</metadata>
