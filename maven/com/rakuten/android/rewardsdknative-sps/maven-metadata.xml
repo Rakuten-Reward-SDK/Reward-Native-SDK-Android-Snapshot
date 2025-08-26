@@ -3,7 +3,8 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-sps</artifactId>
   <versioning>
-    <latest>1.6.0-alpha03-snapshot</latest>
+    <latest>1.5.1-alpha01-test</latest>
+    <release>1.5.1-alpha01-test</release>
     <versions>
       <version>1.0.0-snapshot</version>
       <version>1.0.0-alpha01-snapshot</version>
@@ -64,7 +65,8 @@
       <version>1.6.0-alpha01-snapshot</version>
       <version>1.6.0-alpha02-snapshot</version>
       <version>1.6.0-alpha03-snapshot</version>
+      <version>1.5.1-alpha01-test</version>
     </versions>
-    <lastUpdated>20250807055617</lastUpdated>
+    <lastUpdated>20250826053352</lastUpdated>
   </versioning>
 </metadata>
