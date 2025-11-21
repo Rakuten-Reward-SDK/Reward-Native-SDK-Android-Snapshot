@@ -3,7 +3,7 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-core</artifactId>
   <versioning>
-    <latest>8.0.0-alpha09-test</latest>
+    <latest>8.0.0-alpha01-snapshot</latest>
     <release>8.0.0-alpha09-test</release>
     <versions>
       <version>5.3.0-snapshot</version>
@@ -85,7 +85,8 @@
       <version>7.5.1-alpha01-SNAPSHOT</version>
       <version>7.5.1-alpha02-snapshot</version>
       <version>8.0.0-alpha09-test</version>
+      <version>8.0.0-alpha01-snapshot</version>
     </versions>
-    <lastUpdated>20251107073127</lastUpdated>
+    <lastUpdated>20251121024759</lastUpdated>
   </versioning>
 </metadata>
