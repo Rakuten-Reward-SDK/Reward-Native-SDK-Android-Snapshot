@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.rakuten.android</groupId>
+  <artifactId>rewardsdknative-java</artifactId>
+  <versioning>
+    <latest>8.0.0-alpha02-snapshot</latest>
+    <versions>
+      <version>8.0.0-alpha02-snapshot</version>
+    </versions>
+    <lastUpdated>20251121074016</lastUpdated>
+  </versioning>
+</metadata>
