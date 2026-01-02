@@ -3,7 +3,7 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-client</artifactId>
   <versioning>
-    <latest>1.3.0-firebase02-snapshot</latest>
+    <latest>1.3.0-alpha06-snapshot</latest>
     <release>1.3.0-alpha09-test</release>
     <versions>
       <version>1.0.1-snapshot</version>
@@ -70,6 +70,6 @@
       <version>1.3.0-firebase01-snapshot</version>
       <version>1.3.0-firebase02-snapshot</version>
     </versions>
-    <lastUpdated>20251223095030</lastUpdated>
+    <lastUpdated>20260102080423</lastUpdated>
   </versioning>
 </metadata>
