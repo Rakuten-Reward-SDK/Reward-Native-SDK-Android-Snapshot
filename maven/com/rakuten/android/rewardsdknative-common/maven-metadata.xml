@@ -3,7 +3,7 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-common</artifactId>
   <versioning>
-    <latest>1.4.0-alpha01-snapshot</latest>
+    <latest>1.4.0-alpha02-snapshot</latest>
     <release>1.4.0-alpha09-test</release>
     <versions>
       <version>1.0.0-snapshot</version>
@@ -70,6 +70,6 @@
       <version>1.4.0-firebase01-snapshot</version>
       <version>1.4.0-firebase02-snapshot</version>
     </versions>
-    <lastUpdated>20260128094626</lastUpdated>
+    <lastUpdated>20260129065328</lastUpdated>
   </versioning>
 </metadata>
