@@ -36,5 +36,29 @@
       <version>1.10.0</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>androidx.activity</groupId>
+      <artifactId>activity-compose</artifactId>
+      <version>1.7.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.compose.ui</groupId>
+      <artifactId>ui</artifactId>
+      <version>1.4.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.compose.ui</groupId>
+      <artifactId>ui-tooling-preview</artifactId>
+      <version>1.4.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.compose.material3</groupId>
+      <artifactId>material3</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
