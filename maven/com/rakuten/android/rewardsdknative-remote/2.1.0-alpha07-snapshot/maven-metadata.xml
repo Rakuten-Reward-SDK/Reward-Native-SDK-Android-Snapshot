@@ -3,21 +3,21 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-remote</artifactId>
   <versioning>
-    <lastUpdated>20260302072046</lastUpdated>
+    <lastUpdated>20260703030030</lastUpdated>
     <snapshot>
-      <timestamp>20260302.072046</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20260703.030030</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>aar</extension>
-        <value>2.1.0-alpha07-snapshot</value>
-        <updated>20260302072046</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <extension>pom</extension>
         <value>2.1.0-alpha07-snapshot</value>
-        <updated>20260302072046</updated>
+        <updated>20260703030030</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>2.1.0-alpha07-snapshot</value>
+        <updated>20260703030030</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
