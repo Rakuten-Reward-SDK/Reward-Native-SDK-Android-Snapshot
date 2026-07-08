@@ -3,7 +3,7 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-java</artifactId>
   <versioning>
-    <latest>8.3.0-alpha08-snapshot</latest>
+    <latest>8.2.1-alpha01-snapshot</latest>
     <versions>
       <version>8.0.0-alpha02-snapshot</version>
       <version>8.0.0-alpha03-snapshot</version>
@@ -32,7 +32,8 @@
       <version>8.3.0-alpha06-snapshot</version>
       <version>8.3.0-alpha07-snapshot</version>
       <version>8.3.0-alpha08-snapshot</version>
+      <version>8.2.1-alpha01-snapshot</version>
     </versions>
-    <lastUpdated>20260707061641</lastUpdated>
+    <lastUpdated>20260708023706</lastUpdated>
   </versioning>
 </metadata>
