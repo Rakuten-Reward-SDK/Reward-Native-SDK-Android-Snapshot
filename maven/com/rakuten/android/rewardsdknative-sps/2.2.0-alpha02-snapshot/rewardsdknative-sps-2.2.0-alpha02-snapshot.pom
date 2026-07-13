@@ -9,7 +9,7 @@
     <dependency>
       <groupId>jp.co.rakuten.sps.web</groupId>
       <artifactId>websdk</artifactId>
-      <version>0.7.6</version>
+      <version>0.8.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
