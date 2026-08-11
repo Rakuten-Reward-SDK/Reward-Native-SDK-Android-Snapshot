@@ -3,7 +3,7 @@
   <groupId>com.rakuten.android</groupId>
   <artifactId>rewardsdknative-ads</artifactId>
   <versioning>
-    <latest>1.0.0-alpha14-snapshot</latest>
+    <latest>1.0.0-alpha15-snapshot</latest>
     <versions>
       <version>1.0.0-alpha01-snapshot</version>
       <version>1.0.0-alpha02-snapshot</version>
@@ -19,7 +19,8 @@
       <version>1.0.0-alpha12-snapshot</version>
       <version>1.0.0-alpha13-snapshot</version>
       <version>1.0.0-alpha14-snapshot</version>
+      <version>1.0.0-alpha15-snapshot</version>
     </versions>
-    <lastUpdated>20260805065840</lastUpdated>
+    <lastUpdated>20260811074259</lastUpdated>
   </versioning>
 </metadata>
